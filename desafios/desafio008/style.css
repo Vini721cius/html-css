@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#principal{
+    background-color: rgb(202, 191, 191);
+}
+#verde{
+    background-color: rgb(101, 165, 101);
+  color: rgb(9, 95, 9);
+
+}
+#amarela{
+    background-color: rgb(255, 255, 181);
+    color: rgb(228, 199, 70);
+}
